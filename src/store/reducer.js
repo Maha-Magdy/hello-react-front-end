@@ -1,5 +1,7 @@
+/* eslint-disable camelcase */
 import { Fetch_NEW_GREETING_SUCCESS, Fetch_NEW_GREETING_FAILURE } from './action';
-const initialState = "";
+
+const initialState = '';
 
 const reducer = (state = initialState, action) => {
   switch (action.type) {
