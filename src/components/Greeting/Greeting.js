@@ -1,15 +1,21 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import styles from './Greeting.module.css';
+import React, { useEffect } from "react";
+import styles from "./Greeting.module.css";
+import { useSelector, useDispatch } from "react-redux";
+import { fetchNewGreeting } from "../../store/action";
 
-const Greeting = () => (
-  <div className={styles.Greeting}>
-    Greeting Component
-  </div>
-);
+const Greeting = () => {
+  const greeting = useSelector(state => state);
+  const dispatch = useDispatch();
 
-Greeting.propTypes = {};
+  useEffect(() => {
+    dispatch(fetchNewGreeting());
+  } ,[]);
 
-Greeting.defaultProps = {};
+  return (
+    <div className={styles.Greeting}>
+      <h2>{ greeting } </h2>
+    </div>  
+  );
+};
 
 export default Greeting;
