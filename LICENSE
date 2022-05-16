@@ -1,74 +1,21 @@
-# HELLO REACT FRONT-END
+MIT License
 
-## About
+Copyright (c) 2021 Maha-Magdy
 
-A "Hello react front-end" is a sample application to practice how to connect the frontend with an (API)[https://github.com/Maha-Magdy/hello-rails-back-end.git] was created using ruby on rails. It is a Single Page App (SPA) that allows users to:
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-- Read a random greeting message.
-  
-This website was built with React.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-## Built With
-
-- HTML, CSS, JavaScript.
-- React.
-- VisualStudio Code, Git, & GitHub.
-
-<!-- ## Live Demo
-
-[Live Demo Link]( https://maha-magdy.github.io/egyptian-food-world/ ) -->
-
-## Pre-requisites
-
-- NodeJs
-- Git
-- 
-## Getting Started
-
-To run this project, you only need a computer with a browser installed, and follow these steps:
-
-
-1. In your terminal, in the folder of your preference, type the following bash command to clone this repository:
-
-```sh
-git clone https://github.com/Maha-Magdy/hello-react-front-end.git
-```
-
-2. Now that you have already cloned the repo run the following commands to get the project up and running:
-```sh
-cd hello-react-front-end
-npm install
-npm start
-```
-
-3. Open the url path in the browser to match 
-   /greeting
-
-
-<!-- ## Netlify Live Demo
-[Netlify Live Demo Link]( https://math-magicians-app.netlify.app/ )
-
-## Heroku Live Demo
-[Heroku Live Demo Link]( https://math-magicians-demo.herokuapp.com/ ) -->
-
-## Author
-
-👤 **Maha Magdy**
-
-- GitHub: [Maha-Magdy](https://github.com/Maha-Magdy)
-- Twitter: [@Maha_M_Abdelaal](https://twitter.com/Maha_M_Abdelaal)
-- LinkedIn: [Maha Magdy](https://www.linkedin.com/in/maha-magdy-abdelaal/)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/Maha-Magdy/hello-react-front-end/issues).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## 📝 License
-
-This project is [MIT](./LICENSE) licensed.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
