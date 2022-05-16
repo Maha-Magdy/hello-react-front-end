@@ -2,12 +2,10 @@
 
 ## About
 
-A "Hello react front-end" is a sample application to practice how to connect the frontend with an (API)[https://github.com/Maha-Magdy/hello-rails-back-end.git] was created using ruby on rails. It is a Single Page App (SPA) that allows users to:
+A "Hello react front-end" is a sample application to practice how to connect the frontend with an [API](https://github.com/Maha-Magdy/hello-rails-back-end.git) was created using ruby on rails. It is a Single Page App (SPA) that allows users to:
 
 - Read a random greeting message.
   
-This website was built with React.
-
 ## Built With
 
 - HTML, CSS, JavaScript.
@@ -22,7 +20,7 @@ This website was built with React.
 
 - NodeJs
 - Git
-- 
+
 ## Getting Started
 
 To run this project, you only need a computer with a browser installed, and follow these steps:
